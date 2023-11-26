@@ -1,5 +1,5 @@
 # How does it look
-- [Check it out here]([https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md](https://drive.google.com/file/d/1e8hUDk0p9fCwcgBfyhf0pYvAHIqixmON/view?usp=sharing))
+- [Check it out here](https://drive.google.com/file/d/1e8hUDk0p9fCwcgBfyhf0pYvAHIqixmON/view?usp=sharing)
 
 
 # React + TypeScript + Vite
